@@ -1,0 +1,1 @@
+Using javascript in this days become very crutial and hard but still I will find a to use javascript as usefull and as fast yeah I mean I need a website which is fast and interactive not slow tortuise!!!

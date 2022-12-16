@@ -1,0 +1,169 @@
+{
+  "main": {
+    "id": "1ec0aea0b12dcd25",
+    "type": "split",
+    "children": [
+      {
+        "id": "a71c4f3e1010ff43",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "74dbe6dcf635cb61",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "cc000d9e187cf34f",
+    "type": "split",
+    "children": [
+      {
+        "id": "dcb886460c10b233",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "90d29a281b04fa1a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d314471e04550483",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "cb65fe5371842b8e",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 212.5
+  },
+  "right": {
+    "id": "55f25c6575c449ff",
+    "type": "split",
+    "children": [
+      {
+        "id": "9220261f1bb567be",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3eb5adad7e02336c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3c34569d74831799",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f7345d168df5a3d9",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "c2f5d2fdefe70695",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "81b6c12bca43d504",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "4c889cb75f5c6373",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "e2ddf44386091556",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "active": "74dbe6dcf635cb61",
+  "lastOpenFiles": [
+    "6570/Daily-Events.md",
+    "6570/Untitled.md",
+    "6570/Presence-End & New-Day.md",
+    "6570/Grateful-For.md",
+    "6570/Thoughts.md",
+    "6570/Play.md",
+    "6570/Rest.md",
+    "6570/Work.md",
+    "Website/2022-12-15(Thursday).md",
+    "6570/Hopes & Dreams.md"
+  ]
+}
