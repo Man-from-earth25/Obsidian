@@ -1,23 +1,18 @@
 {
   "main": {
-    "id": "1ec0aea0b12dcd25",
+    "id": "f08a6de72f77cf8e",
     "type": "split",
     "children": [
       {
-        "id": "a71c4f3e1010ff43",
+        "id": "a12fe69684706ff0",
         "type": "tabs",
         "children": [
           {
-            "id": "74dbe6dcf635cb61",
+            "id": "80e4b5257cd06e4f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2022-12-17.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -26,15 +21,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "cc000d9e187cf34f",
+    "id": "c04693a4993260e1",
     "type": "split",
     "children": [
       {
-        "id": "dcb886460c10b233",
+        "id": "7c66f085868d6481",
         "type": "tabs",
         "children": [
           {
-            "id": "90d29a281b04fa1a",
+            "id": "46867d051a339722",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -44,7 +39,7 @@
             }
           },
           {
-            "id": "d314471e04550483",
+            "id": "97f7d6b53f1be63e",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -59,7 +54,7 @@
             }
           },
           {
-            "id": "cb65fe5371842b8e",
+            "id": "c65139f08ca1416c",
             "type": "leaf",
             "state": {
               "type": "starred",
@@ -70,24 +65,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 212.5,
+    "width": 300,
     "collapsed": true
   },
   "right": {
-    "id": "55f25c6575c449ff",
+    "id": "bd8ebea68b8b1ecf",
     "type": "split",
     "children": [
       {
-        "id": "9220261f1bb567be",
+        "id": "e1fe519630bb38c4",
         "type": "tabs",
         "children": [
           {
-            "id": "3eb5adad7e02336c",
+            "id": "d0cb63b648d94833",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2022-12-17.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,19 +93,18 @@
             }
           },
           {
-            "id": "3c34569d74831799",
+            "id": "2cb6edfd68968522",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2022-12-17.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "f7345d168df5a3d9",
+            "id": "b5719e3822dad442",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -122,58 +115,20 @@
             }
           },
           {
-            "id": "c2f5d2fdefe70695",
+            "id": "92f0b0c33aa6cd5a",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "2022-12-17.md"
-              }
-            }
-          },
-          {
-            "id": "81b6c12bca43d504",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {}
-            }
-          },
-          {
-            "id": "4c889cb75f5c6373",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {}
-            }
-          },
-          {
-            "id": "e2ddf44386091556",
-            "type": "leaf",
-            "state": {
-              "type": "todo",
               "state": {}
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200,
+    "width": 300,
     "collapsed": true
   },
-  "active": "90d29a281b04fa1a",
-  "lastOpenFiles": [
-    "6570/Untitled.md",
-    "README.md",
-    "2022-12-17.md",
-    "6570/Daily-Events.md",
-    "6570/Presence-End & New-Day.md",
-    "6570/Grateful-For.md",
-    "6570/Thoughts.md",
-    "6570/Play.md",
-    "6570/Rest.md",
-    "6570/Work.md"
-  ]
+  "active": "80e4b5257cd06e4f",
+  "lastOpenFiles": []
 }
