@@ -70,8 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 212.5,
-    "collapsed": true
+    "width": 212.5
   },
   "right": {
     "id": "55f25c6575c449ff",
@@ -165,15 +164,15 @@
   },
   "active": "90d29a281b04fa1a",
   "lastOpenFiles": [
-    "6570/Untitled.md",
+    "2022-12-19.md",
+    "readme - Copy.md",
     "README.md",
     "2022-12-17.md",
+    "6570/Untitled.md",
     "6570/Daily-Events.md",
     "6570/Presence-End & New-Day.md",
     "6570/Grateful-For.md",
     "6570/Thoughts.md",
-    "6570/Play.md",
-    "6570/Rest.md",
-    "6570/Work.md"
+    "6570/Play.md"
   ]
 }
